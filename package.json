@@ -1,0 +1,15 @@
+{
+  "name": "contact-list",
+  "version": "1.0.0",
+  "scripts": {
+    "json": "json-server --watch db.json --port 8888"
+  },
+  "author": "grace",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "description": ""
+}
